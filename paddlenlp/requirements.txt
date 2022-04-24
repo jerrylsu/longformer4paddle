@@ -1,0 +1,10 @@
+jieba
+h5py
+colorlog
+colorama
+seqeval
+multiprocess
+datasets
+tqdm
+paddlefsl
+sentencepiece
